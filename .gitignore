@@ -1,0 +1,6 @@
+database/*.db
+*.log
+*.tmp
+*.temp
+temp_verify.php
+.vscode/
