@@ -1,3 +1,5 @@
+Nama: Angelina Asisih
+NIM/Kelas: 101230024/TF23C
 # Sistem Monitoring Ngaji
 
 Sistem Monitoring Ngaji adalah aplikasi web sederhana untuk membantu ustadz/ustadzah mencatat progres belajar santri secara terorganisir. Aplikasi ini mendukung pencatatan perkembangan ngaji, presensi, riwayat belajar, serta pengelolaan data santri dalam satu dashboard.
