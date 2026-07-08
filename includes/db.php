@@ -29,4 +29,10 @@ function requireLogin() {
     }
 }
 
+if (!function_exists('isCurrentUserAdmin')) {
+    function isCurrentUserAdmin(): bool {
+        return !empty($_SESSION['role']) && $_SESSION['role'] === 'admin';
+    }
+}
+
 ?>
